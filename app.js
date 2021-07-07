@@ -13,8 +13,9 @@ var message_data;
 readFromFile(filename);
 
 var server = http.createServer(getFromClient);
+var port = process.env.PORT || 8000;
 
-server.listen(3000);
+server.listen(port);
 console.log('Server start!');
 // ここまでメインプログラム
 
