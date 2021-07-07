@@ -13,8 +13,10 @@ var message_data;
 readFromFile(filename);
 
 var server = http.createServer(getFromClient);
-var port = process.env.PORT || 8000;
 
+// port number の設定
+// https://www.it-swarm-ja.com/ja/node.js/私のheroku-nodejsアプリがat-error-code-h10-desc-app-crashed-method-get-path-を与えるのはなぜですか？/827186084/
+var port = process.env.PORT || 8000;
 server.listen(port);
 console.log('Server start!');
 // ここまでメインプログラム
