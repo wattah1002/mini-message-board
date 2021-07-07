@@ -1,0 +1,10 @@
+{"id":"wattah","msg":"新しい"}
+{"id":"waty","msg":"少し雨ですね"}
+{"id":"waty","msg":"楽しみですね"}
+{"id":"waty","msg":"すばらしいですね"}
+{"id":"wattah","msg":"wawawa"}
+{"id":"wattah","msg":"wawawa"}
+{"id":"waty","msg":"いかがおすごしですか"}
+{"id":"waty","msg":"いい天気ですね"}
+{"id":"wattah","msg":"wawawa"}
+{"id":"waty","msg":"元気ですか"}
